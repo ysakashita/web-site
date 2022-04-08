@@ -1,35 +1,15 @@
-## ほげ
+## SNIA日本支部 ユースケース分科会
 
-テスト
+[SNIA日本支部](https://www.snia-j.org/)ユースケース分科会とは
 
-### Markdown
+### 活動内容
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+月1回の分科会を開催しています。
 
-```markdown
-Syntax highlighted code block
+### 体制
 
-# Header 1
-## Header 2
-### Header 3
+- [2022年度の運営体制](./organization.md)
 
-- Bulleted
-- List
+### 分科会への参加方法
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ysakashita/web-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本分科会へ参加をご希望される方は [](https://support.github.com/contact) and we’ll help you sort it out.
