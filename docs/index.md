@@ -22,7 +22,9 @@
 #### 会長 (Co-Chair)
 
 - 坂下 幸徳
-  - ヤフー株式会社/ゼットラボ株式会社、[SNIA Technical Council Advisor](https://www.snia.org/about/organization/tech_council)、SNIA日本支部技術委員会 副委員長
+  - ヤフー株式会社/ゼットラボ株式会社
+  - [SNIA Technical Council Advisor](https://www.snia.org/about/organization/tech_council)
+  - SNIA日本支部技術委員会 副委員長
 - aaa
 
 
